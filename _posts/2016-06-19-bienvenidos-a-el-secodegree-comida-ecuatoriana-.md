@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-19T16:35:00.330Z'
-dateModified: '2016-06-19T16:34:19.883Z'
+datePublished: '2016-06-19T16:38:10.456Z'
+dateModified: '2016-06-19T16:36:36.746Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-19-bienvenidos-a-el-secodegree-comida-ecuatoriana-.md
 authors: []
 publisher: null
