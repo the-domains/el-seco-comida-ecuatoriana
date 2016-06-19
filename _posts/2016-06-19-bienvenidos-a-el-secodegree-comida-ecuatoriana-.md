@@ -9,14 +9,14 @@ description: >-
   proyecto que pretende ser un portal a la gastronomía del Ecuador a través de
   un plato típico que solía definir los domingos de mi infancia. su preparación
   es sencilla, pero demanda mucho cariño por los detalles.
-datePublished: '2016-06-19T16:51:21.649Z'
-dateModified: '2016-06-19T16:51:19.073Z'
+datePublished: '2016-06-19T16:53:29.233Z'
+dateModified: '2016-06-19T16:52:03.136Z'
 title: bienvenidos a el seco° -comida ecuatoriana-
 author: []
+sourcePath: _posts/2016-06-19-bienvenidos-a-el-secodegree-comida-ecuatoriana-.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-19-bienvenidos-a-el-secodegree-comida-ecuatoriana-.md
 url: bienvenidos-a-el-secodegree-comida-ecuatoriana-/index.html
 _type: Article
 
