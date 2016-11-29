@@ -1,19 +1,4 @@
-name: el seco° comida ecuatoriana
-favicon: null
-layout_spectrum: 0.9802867
 typography_spectrum: 0.2401434
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#15150C'
@@ -25,4 +10,38 @@ color:
   lightness: 0.5089605
   saturation: 0.8387097
   rhythmicContrast: 0.7114695
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: '@elsecocomidaecuador'
+layout_spectrum: 0.9802867
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: null
+name: el seco° -comida ecuatoriana-
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: qué está pasando?
+    id: 036ed59d-8370-4264-9a7b-70faa6d2562b
+    type: content
+  - name: cómo empezó todo?
+    id: 02732129-33ae-4927-934e-80b1abbc720b
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/db40415f-3fe5-4498-a8ca-20e66b5d4f00.jpg
+title: el secoº
+content: []
+description: sitio dedicado a lo que hacemos todos los días desde la cocina de el secoº
+purpose:
+  - type: contact
+    url: 'mailto:guillermo.miranda@el-seco.de'
+    label: contáctanos
+  - type: contact
+    url: 'mailto:guillermo.miranda@el-seco.de'
+    label: reservas
