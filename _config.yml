@@ -27,11 +27,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: qué está pasando?
-    id: 036ed59d-8370-4264-9a7b-70faa6d2562b
-    type: content
   - name: cómo empezó todo?
     id: 02732129-33ae-4927-934e-80b1abbc720b
+    type: content
+  - name: qué está pasando?
+    id: 036ed59d-8370-4264-9a7b-70faa6d2562b
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db40415f-3fe5-4498-a8ca-20e66b5d4f00.jpg
