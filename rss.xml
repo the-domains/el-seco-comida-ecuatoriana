@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[el seco° comida ecuatoriana]]></title>
-        <description><![CDATA[el seco° comida ecuatoriana]]></description>
+        <title><![CDATA[el secoº]]></title>
+        <description><![CDATA[el secoº]]></description>
         <link>https://thegrid.ai/el-seco-comida-ecuatoriana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 19:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2016 08:12:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/el-seco-comida-ecuatoriana/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 30 Nov 2016 08:12:53 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7db3d68-a430-4351-b361-1003e090a649.jpg">]]></description>
-            <link>https://thegrid.ai/el-seco-comida-ecuatoriana/3668d3cf-31c7-4882-8071-2d6b4d51aed9/index.html</link>
-            <guid isPermaLink="false">3668d3cf-31c7-4882-8071-2d6b4d51aed9</guid>
-            <pubDate>Sun, 19 Jun 2016 19:22:57 GMT</pubDate>
+            <description><![CDATA[<p>iniciamos este viaje hace unos años atrás, cocinando comida ecuatoriana por todo lado que se pudiera. </p>]]></description>
+            <link>https://thegrid.ai/el-seco-comida-ecuatoriana/iniciamos-este-viaje-hace-unos-anos-atras-cocinando-comida/index.html</link>
+            <guid isPermaLink="false">9b6b341b-f30c-4704-a306-9a8db3138f5d</guid>
+            <pubDate>Wed, 30 Nov 2016 08:12:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[bienvenidos a el seco° -comida ecuatoriana-]]></title>
-            <description><![CDATA[<article><h1>bienvenidos a el seco° -comida ecuatoriana-</h1><p>permítanme saludarlos y darles la más cordial de las bienvenidas a este proyecto que pretende ser un portal a la gastronomía del Ecuador a través de un plato típico que solía definir los domingos de mi infancia. su preparación es sencilla, pero demanda mucho cariño por los detalles.</p></article>]]></description>
-            <link>https://thegrid.ai/el-seco-comida-ecuatoriana/bienvenidos-a-el-secodegree-comida-ecuatoriana-/index.html</link>
-            <guid isPermaLink="false">028c53e1-da95-4c9a-bbb0-55a7e3435f40</guid>
-            <pubDate>Sun, 19 Jun 2016 17:19:05 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>iniciamos este viaje hace unos años atrás, cocinando comida ecuatoriana por todo lado que se pudiera. </p>]]></description>
+            <link>https://thegrid.ai/el-seco-comida-ecuatoriana/iniciamos-este-viaje-hace-unos-anos-atras-cocinando-comida/index.html</link>
+            <guid isPermaLink="false">02732129-33ae-4927-934e-80b1abbc720b</guid>
+            <pubDate>Tue, 29 Nov 2016 15:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>estamos cocinando comida ecuatoriana con ingredientes locales y justos. nuestra carta es un repertorio de los platos que mejor sabemos hacer.</p>]]></description>
+            <link>https://thegrid.ai/el-seco-comida-ecuatoriana/estamos-cocinando-comida-ecuatoriana-con-ingredientes-locale/index.html</link>
+            <guid isPermaLink="false">036ed59d-8370-4264-9a7b-70faa6d2562b</guid>
+            <pubDate>Tue, 29 Nov 2016 15:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
