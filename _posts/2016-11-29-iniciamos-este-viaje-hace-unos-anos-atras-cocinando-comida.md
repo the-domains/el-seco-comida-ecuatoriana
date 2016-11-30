@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-11-30T08:13:58.561Z'
+datePublished: '2016-11-30T08:14:05.580Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-30T08:13:56.936Z'
+dateModified: '2016-11-30T08:14:02.957Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,7 +12,7 @@ description: >-
 sourcePath: >-
   _posts/2016-11-29-iniciamos-este-viaje-hace-unos-anos-atras-cocinando-comida.md
 hasPage: true
-starred: true
+starred: false
 url: iniciamos-este-viaje-hace-unos-anos-atras-cocinando-comida/index.html
 _type: Article
 
